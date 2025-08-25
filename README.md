@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Flávio Fassina
+# 👋 Olá, me chamo Flávio Fassina
 
 💼 Bancário  
 💻 Estudante de **Front-end** (HTML, CSS, JavaScript, Git & GitHub, Angular e React Native)  
@@ -20,11 +20,11 @@ Estou dedicado no desenvolvimento do projeto **[simulacao-emprestimo](https://gi
 ---
 
 ## 🤝 Soft Skills
-- Organização & Foco em Resultados  
-- Comunicação Clara e Efetiva  
-- Trabalho em Equipe & Colaboração  
-- Resiliência e Adaptabilidade  
-- Aprendizado Contínuo  
+- Organização com foco em Resultados  
+- Comunicação clara e efetiva  
+- Trabalho em equipe  
+- Resiliência e adaptabilidade  
+- Aprendizado contínuo  
 
 ---
 
