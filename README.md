@@ -1,8 +1,10 @@
-# 👋 Olá, me chamo Flávio Fassina
+# 👋 Olá, eu sou o Flávio Fassina
 
 💼 Bancário  
 💻 Estudante de **Front-end** (HTML, CSS, JavaScript, Git & GitHub, Angular e React Native)  
 📈 Apaixonado por **finanças, tecnologia e inovação**  
+
+🎯 **Objetivo:** unir minha experiência no setor bancário com tecnologia para desenvolver soluções inovadoras em finanças digitais.
 
 ---
 
@@ -12,19 +14,22 @@ Estou dedicado no desenvolvimento do projeto **[simulacao-emprestimo](https://gi
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Linguagens & Frameworks:** HTML | CSS | JavaScript | Angular | React Native  
-- **Ferramentas:** Git & GitHub  
-- **Metodologias:** Scrum & Agile  
-- **Interesses:** Automação, RPA, Marketing Digital, Finanças Pessoais  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🤝 Soft Skills
-- Organização com foco em Resultados  
-- Comunicação clara e efetiva  
-- Trabalho em equipe  
-- Resiliência e adaptabilidade  
-- Aprendizado contínuo  
+- Organização & Foco em Resultados  
+- Comunicação Clara e Efetiva  
+- Trabalho em Equipe & Colaboração  
+- Resiliência e Adaptabilidade  
+- Aprendizado Contínuo  
 
 ---
 
